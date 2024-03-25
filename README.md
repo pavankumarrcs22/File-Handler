@@ -20,7 +20,8 @@ Components of a file handler include:
 
 To run this code:
 
-1)Move to code directory:  cd code
+1)Move to code directory:  
+           cd code
 
 2)Compile :  to compile the '.cpp' files into object files
 
@@ -32,4 +33,5 @@ To run this code:
 
            g++ filehanlderapp.o filehandlerfunction.o -o filehandler
            
-4)Run the compiled executable:    ./filehandler
+4)Run the compiled executable:    
+           ./filehandler
