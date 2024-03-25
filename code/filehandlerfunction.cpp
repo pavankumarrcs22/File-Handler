@@ -1,4 +1,4 @@
-#include "TextEditor.h"
+#include "filehandler.h"
 text::text() {
 
 }

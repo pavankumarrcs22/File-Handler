@@ -1,5 +1,5 @@
 #include <iostream>
-#include "TextEditor.h"
+#include "filehandler.h"
 #include <fstream> //file stream
 #include <string>
 #include<cstring>
