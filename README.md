@@ -32,4 +32,4 @@ To run this code:
 
            g++ filehanlderapp.o filehandlerfunction.o -o filehandler
            
-4)Run:    ./filehandler
+4)Run the compiled executable:    ./filehandler
