@@ -23,10 +23,13 @@ To run this code:
 1)Move to code directory:  cd code
 
 2)Compile :  to compile the '.cpp' files into object files
+
            g++ -c filehandlerapp.cpp -o filehandlerapp.o
+           
            g++ -c filehandlerfuncion.cpp -o filehandlerfunction.o
            
 3)Link: After compiling, to link the object files into an executable named filehandler
+
            g++ filehanlderapp.o filehandlerfunction.o -o filehandler
            
 4)Run: ./filehandler
